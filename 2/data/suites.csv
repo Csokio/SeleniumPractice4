@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun May 14 14:15:13 GMT 2023","Sun May 14 14:15:13 GMT 2023","0","","tests.InputFormTest","","tests.InputFormTest","testIsChecked","testIsChecked()",""
+"broken","Sun May 14 14:15:12 GMT 2023","Sun May 14 14:15:12 GMT 2023","7","","tests.InputFormTest","","tests.InputFormTest","testValue","testValue()",""
+"broken","Sun May 14 14:15:13 GMT 2023","Sun May 14 14:15:13 GMT 2023","1","","tests.TableTest","","tests.TableTest","rowNumber","rowNumber()",""
