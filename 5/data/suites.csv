@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun May 14 14:32:57 GMT 2023","Sun May 14 14:33:00 GMT 2023","3449","","tests.InputFormTest","","tests.InputFormTest","testValue","testValue()",""
+"passed","Sun May 14 14:33:01 GMT 2023","Sun May 14 14:33:05 GMT 2023","3494","","tests.TableTest","","tests.TableTest","rowNumber","rowNumber()",""
+"passed","Sun May 14 14:33:00 GMT 2023","Sun May 14 14:33:01 GMT 2023","697","","tests.InputFormTest","","tests.InputFormTest","testIsChecked","testIsChecked()",""
